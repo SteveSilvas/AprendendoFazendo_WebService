@@ -9,7 +9,7 @@ include_once 'header.php';
         Bem vindo (a) a aula de Web Services
     </h2>
     
-    <form action="direcionar.php" method="post"class="w3-row w3-text-blue w3-center"style="width: 100%;">
+    <form action="Steve_Ferreira_da_Silva_Ag16_DSIII/direcionar.php" method="post"class="w3-row w3-text-blue w3-center"style="width: 100%;">
         
     
         <div class="w3-row w3-section">
